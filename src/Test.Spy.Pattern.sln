@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Spy.Pattern", "Test.Spy.Pattern\Test.Spy.Pattern.csproj", "{2412421C-7F36-45B9-9738-09C19ADE16DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Spy.Pattern.UnitTests", "..\tests\Test.Spy.Pattern.UnitTests\Test.Spy.Pattern.UnitTests.csproj", "{F4405DBB-5C8D-4DAE-9B9C-C0FA189FB12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2412421C-7F36-45B9-9738-09C19ADE16DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2412421C-7F36-45B9-9738-09C19ADE16DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2412421C-7F36-45B9-9738-09C19ADE16DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2412421C-7F36-45B9-9738-09C19ADE16DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4405DBB-5C8D-4DAE-9B9C-C0FA189FB12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4405DBB-5C8D-4DAE-9B9C-C0FA189FB12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4405DBB-5C8D-4DAE-9B9C-C0FA189FB12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4405DBB-5C8D-4DAE-9B9C-C0FA189FB12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2D5DD1-B5DD-4A01-9954-36693B5D8D0D}
+	EndGlobalSection
+EndGlobal

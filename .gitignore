@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs
+/src/Test.Spy.Pattern/.vs
+/src/Test.Spy.Pattern/bin
+/src/Test.Spy.Pattern/obj
+/tests/Test.Spy.Pattern.UnitTests/bin
+/tests/Test.Spy.Pattern.UnitTests/obj
